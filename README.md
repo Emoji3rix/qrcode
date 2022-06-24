@@ -1,2 +1,2 @@
-##Welcome to Aaronhub
+Welcome to Aaronhub
 This is my website
